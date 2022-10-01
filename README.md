@@ -1,4 +1,8 @@
 # Program-C-_TLS22
+
+Shofi Na'ila Haniefah_
+Gauss
+
 Program ini hanyalah program sederhana
 #include <iostream>
 #define WON_RUPIAH 10.63
